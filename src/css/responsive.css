@@ -1,0 +1,32 @@
+@media (max-width: 768px){
+    main .advice-card-container{
+        width: 345px;
+        height: 315px;
+        border: 20px;
+    }
+
+    main .advice-text h3{
+        font-size: 25px;
+        line-height: 30px;
+        letter-spacing: 1px;
+        padding: 0 8px 0 8px;
+    }
+
+    main .advice-text p {
+        font-size: 11px;
+        letter-spacing: 3px;
+        padding: 12px 0 25px 0;
+    }
+
+    main .divider{
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 375px){
+    main .advice-card-container{
+        width: 325px;
+        height: 315px;
+        border: 20px;
+    } 
+}
