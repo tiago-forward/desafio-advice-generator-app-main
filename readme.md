@@ -14,32 +14,35 @@
 ## Sobre
 
 ### Resolução do desafio do [Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db) criando um gerador de conselhos.
-### Meu desafio
-<img src="src/images/desktop-gerador-app.png" alt="Imagem do Desafio Funcionando">
 
-### Desafio proposto
-<img src="design/desktop-design.jpg" alt="Imagem do Desafio Proposto">
+### Desafio proposto:
+<img src="design/desktop-preview.jpg" alt="Imagem do Desafio Proposto">
+
+### Minha solução:
+#### Layout Desktop | Mobile.
+<img src="src/images/gif-advice-random.gif" alt="Gif do desafio funcionando">
 
 ## Status
 
-Desafio em desenvolvimento, conforme meu progresso no curso DevQuest 👌
+Desafio concluído! 👌
 
 ## Objetivo
 
-Com base nos conceitos adquiridos no curso Dev Quest, tinha como objetivo tornar o site o mais próximo do modelo original sem a interação da API, apenas para aplicar nossos conhecimentos de HTML e CSS adquiridos.
+Com base nos conceitos adquiridos do curso Dev Quest, tinha como objetivo tornar o site o mais próximo do modelo original e utilizar das palavras-chaves o `Async` e `Await` para trabalhar com o retorno da `Promisse` da API Advice Generator.
 
 ## Curiosidade
 
-Esse desafio me permitiu praticar mais sobre as medias queries.
+Esse desafio me permitiu analisar o documento da API e, então, por em prática oque aprendi no curso.
 
 ## Tecnologias
 
 <ul>
 <li>HTML</li>
 <li>CSS</li>
+<li>JavaScript</li>
 <li>GIT BASH</li>
 </ul>
 
 ## Acessando o site
 
-Para acessar o site do Desafio Advice Generator App, por favor use esse link : <a href="https://tiago-forward.github.io/desafio-advice-generator-app-main/" target="_blank">Frontend Mentor | Desafio Advice Generator App</a>
+Para acessar o site do Desafio Advice Generator App, por favor use esse link: <a href="https://tiago-forward.github.io/desafio-advice-generator-app-main/" target="_blank">Frontend Mentor | Desafio Advice Generator App</a>
