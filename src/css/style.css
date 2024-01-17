@@ -5,14 +5,15 @@ body{
     font-family: 'Manrope', sans-serif;
 }
 
-main{ 
+
+
+
+/* .advice-card-container{ 
     height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    margin: 0 auto;
 }
 
-.advice-card-container{
+.advice-card{
     background-color: var(--advice-card-color);
     display: flex;
     flex-direction: column;
@@ -50,7 +51,7 @@ main{
 
 .divider{
     margin-bottom: 38px;
-}
+}*/
 
 .dice{
     background-color: var(--dice-color);
