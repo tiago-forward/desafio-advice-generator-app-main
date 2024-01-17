@@ -45,9 +45,14 @@ body{
     border-radius: 50%;
     border: none;
     transform: translateY(50%);
+    transition: 0.3s ease;
 }
 
 .dice:hover{
     cursor: pointer;
     box-shadow: 0px 0px 50px var(--dice-color);
+}
+
+.dice:active{
+    box-shadow: 0px 0px 0px;
 }
