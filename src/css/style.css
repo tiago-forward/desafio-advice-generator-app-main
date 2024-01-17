@@ -3,63 +3,48 @@
 body{
     background-color: var(--background-color);
     font-family: 'Manrope', sans-serif;
+    font-weight: 800;
 }
 
-
-
-
-/* .advice-card-container{ 
+.advice-card-container{
     height: 100vh;
-    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .advice-card{
     background-color: var(--advice-card-color);
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
     align-items: center;
-    width: 540px;
-    height: 330px;
+    width: 345px;
     border-radius: 10px;
-    border: 20px;
-    position: fixed;
-    padding: 0 15px 0 15px;
+    margin: 20px;
 }
 
-.advice-text{
-    display: flex;
-    flex-direction: column;
-}
-
-.advice-text p {
+.advice-card .advice-id{
     color: var(--dice-color);
-    font-size: 12.7px;
-    text-align: center;
-    letter-spacing: 3.5px;
-    padding: 20px 0 25px 0;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 15px;
+    margin-top: 30px;
 }
 
-.advice-text h3{
+.advice-card .advice-text {
     color: var(--text-color);
+    font-size: 23px;
     text-align: center;
-    font-size: 25px;
-    line-height: 38px;
-    letter-spacing: 1px;
-    padding: 0 30px;
+    padding: 23px;
 }
 
-.divider{
-    margin-bottom: 38px;
-}*/
-
-.dice{
+.advice-card .dice{
     background-color: var(--dice-color);
-    display: flex;
-    position: absolute;
-    bottom: -9.5%;
-    padding: 20px;
-    border-radius: 50px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: none;
+    transform: translateY(50%);
 }
 
 .dice:hover{
